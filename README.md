@@ -1,4 +1,4 @@
-#DNYX-Assignment2
+# DNYX-Assignment2
 # HTML Elements Demo
 
 This repository contains an `index.html` file demonstrating various HTML elements and functionalities.
